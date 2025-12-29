@@ -1,37 +1,41 @@
 <h1 align="center">Hi 👋, I'm Rishabh Maurya</h1>
-<h3 align="center">Frontend Developer | React • UI/UX • Web Performance</h3>
+<h3 align="center">
+Frontend Developer • React • UI/UX • Performance-Oriented Web Apps
+</h3>
 
 <p align="center">
   <a href="mailto:rishabh7275m@gmail.com">📧 Email</a> •
   <a href="https://www.linkedin.com/in/rishabh-maurya-1158aa29a">LinkedIn</a> •
   <a href="https://instagram.com/rishabhmaurya____">Instagram</a> •
-  <a href="https://x.com/RishabhM7275">X</a>
+  <a href="https://x.com/RishabhM7275">X</a> •
+  <a href="https://github.com/rishabh727">GitHub</a>
 </p>
 
 ---
 
-## 💫 About Me
+## 🧑‍💻 Who Am I?
 
-I’m a **Frontend Developer** who loves building **clean, responsive, and user-friendly web interfaces**.  
-I enjoy transforming ideas into **real-world web applications** using modern frontend technologies.
+I’m a **Frontend Developer** who loves crafting **fast, responsive, and visually clean interfaces**.  
+My focus is on **usability, performance, and scalable UI architecture**.
 
-- 🎓 B.Sc. Computer Science student at **University of Delhi**
-- ⚛️ Focused on **React & modern UI development**
-- 🌱 Currently improving **UI/UX, performance & best practices**
-- 🎯 Goal: Build **scalable and impactful web products**
-
----
-
-## 🌐 Socials
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rishabhmaurya____)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-maurya-1158aa29a)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RishabhM7275)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rishabh7275m@gmail.com)
+- 🎓 B.Sc. Computer Science — **University of Delhi**
+- ⚛️ React-focused frontend developer
+- 🧠 Strong fundamentals in **DSA & CS core subjects**
+- 🚀 Turning ideas into **production-ready web apps**
+- 🌍 Open to **freelance, internships & collaborations**
 
 ---
 
-## 💻 Tech Stack
+## 🎯 What I’m Working On
+
+- Building **real-world React projects**
+- Improving **component reusability & UI consistency**
+- Learning **Next.js & performance optimization**
+- Creating a strong **developer + freelancer brand**
+
+---
+
+## 🛠️ Tech Arsenal
 
 ### 🚀 Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -41,7 +45,7 @@ I enjoy transforming ideas into **real-world web applications** using modern fro
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### 🛠 Backend & Database
+### 🧩 Backend & Database
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -57,7 +61,28 @@ I enjoy transforming ideas into **real-world web applications** using modern fro
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 Core Computer Science Knowledge
+
+- Data Structures & Algorithms
+- Database Management Systems
+- Software Engineering
+- Operating Systems (Basics)
+- Computer Networks (Basics)
+
+---
+
+## 📌 Featured Projects
+
+- **Arcoders** — Tech services website (React, UI-focused)
+- **BDM** — Business website with clean navigation
+- **Frontend UI Library** — Reusable React components
+- **Academic + Practice Projects** — CS fundamentals
+
+👉 *Check pinned repositories below 👇*
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rishabh727&theme=dark&show_icons=true" />
@@ -73,7 +98,15 @@ I enjoy transforming ideas into **real-world web applications** using modern fro
 
 ---
 
-## ✍️ Random Dev Quote
+## 🏆 Achievements & Highlights
+
+- Built multiple **production-style frontend projects**
+- Strong focus on **clean code & UI quality**
+- Consistent learner with **weekly GitHub activity**
+
+---
+
+## ✍️ Developer Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
@@ -81,11 +114,11 @@ I enjoy transforming ideas into **real-world web applications** using modern fro
 
 ---
 
-## 🔝 Top Contributed Repositories
+## 🤝 Let’s Collaborate
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=rishabh727&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
+- 💼 Freelance & Internship opportunities
+- 🤝 Open-source contributions
+- 🚀 Startup & side-project collaborations
 
 ---
 
@@ -94,5 +127,5 @@ I enjoy transforming ideas into **real-world web applications** using modern fro
 </p>
 
 <p align="center">
-  <strong>“Build clean. Think scalable. Ship fast.”</strong>
+  <strong>“Design with intent. Code with clarity. Scale with confidence.”</strong>
 </p>
